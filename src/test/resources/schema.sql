@@ -1,0 +1,13 @@
+CREATE SCHEMA IF NOT EXISTS testnals;
+
+DROP TABLE IF EXISTS work;
+
+CREATE TABLE work(
+
+  id VARCHAR(20) NOT NULL,
+  work_Name VARCHAR(50) NOT NULL,
+  starting_Date DATE NOT NULL,
+  ending_Date DATE NOT NULL,
+  status VARCHAR(50) NOT NULL,
+  PRIMARY KEY (id)
+)

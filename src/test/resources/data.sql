@@ -1,0 +1,9 @@
+insert into work(id, work_Name, starting_Date, ending_Date, status) VALUES ('work2', 'Lam toan2', '2020-01-02', '2020-05-05', 'Planning');
+insert into work(id, work_Name, starting_Date, ending_Date, status) VALUES ('work3', 'Lam toan3', '2020-01-02', '2020-05-05', 'Planning');
+insert into work(id, work_Name, starting_Date, ending_Date, status) VALUES ('work4', 'Lam toan4', '2020-01-02', '2020-05-05', 'Planning');
+insert into work(id, work_Name, starting_Date, ending_Date, status) VALUES ('work5', 'Lam toan5', '2020-01-02', '2020-05-05', 'Planning');
+insert into work(id, work_Name, starting_Date, ending_Date, status) VALUES ('work6', 'Lam toan6', '2020-01-02', '2020-05-05', 'Planning');
+insert into work(id, work_Name, starting_Date, ending_Date, status) VALUES ('work7', 'Lam toan7', '2020-01-02', '2020-05-05', 'Planning');
+insert into work(id, work_Name, starting_Date, ending_Date, status) VALUES ('work8', 'Lam toan8', '2020-01-02', '2020-05-05', 'Planning');
+insert into work(id, work_Name, starting_Date, ending_Date, status) VALUES ('work9', 'Lam toan9', '2020-01-02', '2020-05-05', 'Planning');
+insert into work(id, work_Name, starting_Date, ending_Date, status) VALUES ('work10', 'Lam toan10', '2020-01-02', '2020-05-05', 'Planning');

@@ -1,0 +1,4 @@
+com/test/nals/config/TestConfiguration.class
+com/test/nals/controller/WorkControllerTest.class
+com/test/nals/repository/impl/WorkRepositoryImplTest.class
+com/test/nals/service/WorkServiceTest.class
